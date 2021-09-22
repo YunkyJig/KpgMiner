@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.txt
+.env
+archive_word_cloud.py
+wordCloud.py
+wordCloud2.py
+__pycache__/
